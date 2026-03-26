@@ -1,0 +1,15 @@
+{
+  "name": "pdd-shopping",
+  "version": "1.0.1",
+  "description": "Help users decide when Pinduoduo is worth considering based on price sensitivity, product category, seller risk, and listing comparability",
+  "keywords": [
+    "pinduoduo",
+    "pdd",
+    "shopping",
+    "ecommerce",
+    "china",
+    "decision-support"
+  ],
+  "author": "",
+  "license": "MIT"
+}
